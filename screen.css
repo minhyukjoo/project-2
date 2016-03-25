@@ -65,7 +65,7 @@ p
 
 #face
 {
-	width: 13em;
+	max-width: 13em;
 }
 
 /*FOR MOBILE (480px)*/
